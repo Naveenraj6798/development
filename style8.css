@@ -1,0 +1,49 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+    background-color: yellow;
+}
+.all{
+    display: flex;
+}
+
+.boxone{
+    border: 1px solid;
+    
+    width: 1440px;
+height: 982px;
+
+padding: 0px, 1px, 0px, 0px;
+
+background-color:#252B42 ;
+margin: auto;
+
+}
+.header{
+    color:#FFFFFF;
+  
+    padding-left: 50px;
+    gap: 30px;
+    font-weight: 30px;
+    display: flex;
+   
+}
+.link{
+    color: white;
+    text-decoration: none;
+ gap: 100px;
+ padding-left: 4px;
+ padding-top: 25px;
+ 
+}
+.boxleft{
+    background-color:#252B42;
+    height:300px ;
+    width: 1440px;
+    padding-left: 100px;
+    color: #FFFFFF;
+   
+   
+}
+
+
